@@ -71,11 +71,11 @@ Dewald Brevis, Andre Russell, Kyle Mayers, Yashasvi Jaiswal, Evin Lewis
 Mohammed Shami, Yuzvendra Chahal, Harshal Patel, Rashid Khan, Avesh Khan,  
 Arshdeep Singh, Kagiso Rabado, Varun Chakravarthy, Shardul Thakur, Trent Boult  
 ### Top 10 bowlers based on past 3 years economy rate with min 60 balls bowled in each season  
-Sunil Narine, Mitchell Santner, David Willey, Moeen Ali, Mohsin Khan,  
-Axar Patel, Shakib Al Hasan, Rashid Khan, Jasprit Bumrah, Jayant Yadav  
+Sunil Narine, Mitchell Santner, Moeen Ali, Mohsin Khan, Axar Patel,  
+Rashid Khan, Jasprit Bumrah, Krunal Pandya, Ravindra Jadeja, R Ashwin  
 ### Top 10 bowlers based on past 3 years bowling average with min 60 balls bowled in each season  
-Deepak Hooda, Hrithik Shokeen, Riyan Parag, Fabian Allen, Jayant Yadav,  
-Aiden Markram, Mahipal Lomror, Mayank Dagar, Jofar Archer, Shreyas Gopal  
+Mohit Sharma, Mitchell Marsh, Mohsin Khan, Andre Russell, Dwayne Bravo,  
+Yuzvendra Chahal, Harshal Patel, Rashid Khan, Mohammed Shami, Matheesha Pathirana
 ### Top 5 batsmen based on past 3 years dot ball%  
 Mohammed Shami, Mohammed Siraj, Trent Boult, Rashid Khan, Bhuvneshwar Kumar  
 
